@@ -1,0 +1,3 @@
+database ":default"
+  branch "i2p.i2p-opentracker"
+  keydir "/home/jeff/.monotone/keys"
